@@ -10,7 +10,7 @@ location: "Florida, United States"
 languages: "English"
 highlights:
   - metric: "Years Experience"
-    value: "+"
+    value: "+8"
     description: "Full Stack Development"
   - metric: "Mobile Apps"
     value: "iOS & Android"
